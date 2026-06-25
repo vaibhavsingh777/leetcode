@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavsingh777/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vaibhavsingh777/leetcode/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
