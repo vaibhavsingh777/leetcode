@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavsingh777/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vaibhavsingh777/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh777/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/vaibhavsingh777/leetcode/tree/master/0091-decode-ways) |
+| [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/vaibhavsingh777/leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh777/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Heap (Priority Queue)
