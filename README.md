@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavsingh777/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/vaibhavsingh777/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vaibhavsingh777/leetcode/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vaibhavsingh777/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/vaibhavsingh777/leetcode/tree/master/0053-maximum-subarray) |
 ## Combinatorics
 |  |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vaibhavsingh777/leetcode/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/vaibhavsingh777/leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh777/leetcode/tree/master/1143-longest-common-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vaibhavsingh777/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vaibhavsingh777/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
