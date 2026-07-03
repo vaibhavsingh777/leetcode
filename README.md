@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavsingh777/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/vaibhavsingh777/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vaibhavsingh777/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/vaibhavsingh777/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh777/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/vaibhavsingh777/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavsingh777/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/vaibhavsingh777/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0088-merge-sorted-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vaibhavsingh777/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vaibhavsingh777/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
