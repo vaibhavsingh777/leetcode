@@ -4,18 +4,19 @@ public:
         int left = 0;
         int right = numbers.size() - 1;
 
-        while(left < right){
+        while(left <= right){
             int curSum = numbers[left] + numbers[right];
-            if(curSum > target)
-            {
-                right--;
-            }
-            else if(curSum < target)
+
+            if(curSum < target)
             {
                 left++;
             }
-            else return{left + 1, right + 1};
+            else if(curSum > target)
+            {
+                right--;
+            }
+            else return{left+1, right+1};
         }
-        return {};
+       return {};
     }
 };
