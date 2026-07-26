@@ -33,3 +33,8 @@ public:
         return false;
     }
 };
+
+/*Two changes:
+
+nums[low] <= target (was <) — since target could equal nums[low] and we still need to search left.
+target <= nums[high] (was <) — same reasoning for the right side.*/
