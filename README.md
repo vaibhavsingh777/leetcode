@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vaibhavsingh777/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vaibhavsingh777/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavsingh777/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhavsingh777/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vaibhavsingh777/leetcode/tree/master/0162-find-peak-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vaibhavsingh777/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/vaibhavsingh777/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/vaibhavsingh777/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavsingh777/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vaibhavsingh777/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh777/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0322-coin-change) |
