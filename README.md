@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavsingh777/leetcode/tree/master/0875-koko-eating-bananas) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavsingh777/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vaibhavsingh777/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavsingh777/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/vaibhavsingh777/leetcode/tree/master/0647-palindromic-substrings) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavsingh777/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaibhavsingh777/leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavsingh777/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
