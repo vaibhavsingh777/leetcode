@@ -1,20 +1,21 @@
 class Solution {
 private:
     // Helper function: Calculates how many days are needed for a given ship capacity
-    int getDaysNeeded(const vector<int>& weights, int capacity) {
-        int daysNeeded = 1;
-        int currentLoad = 0;
+   int getDaysNeeded(const vector<int>& weights, int capacity) {
+    int daysNeeded = 1;   // Start with Day 1
+    int currentLoad = 0;  // Weight loaded on the current day
 
-        for (int w : weights) {
-            if (currentLoad + w > capacity) {
-                daysNeeded++;   // Start a new day
-                currentLoad = w;
-            } else {
-                currentLoad += w;
-            }
+    for (int w : weights) {
+        // Can we add this package to today's load?
+        if (currentLoad + w > capacity) {
+            daysNeeded++; // No! Send today's ship out, start a NEW day
+            currentLoad = w; // Put this package as the FIRST item on the new day
+        } else {
+            currentLoad += w; // Yes! Add it to today's load
         }
-        return daysNeeded;
     }
+    return daysNeeded;
+}
 
 public:
     int shipWithinDays(vector<int>& weights, int days) {
