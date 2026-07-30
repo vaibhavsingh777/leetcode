@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavsingh777/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaibhavsingh777/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavsingh777/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavsingh777/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavsingh777/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaibhavsingh777/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Linked List
 |  |
 | ------- |
