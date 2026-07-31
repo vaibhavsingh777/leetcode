@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vaibhavsingh777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaibhavsingh777/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavsingh777/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/vaibhavsingh777/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/vaibhavsingh777/leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh777/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vaibhavsingh777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/vaibhavsingh777/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vaibhavsingh777/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vaibhavsingh777/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vaibhavsingh777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/vaibhavsingh777/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
