@@ -1,22 +1,70 @@
 {
-  "invert-binary-tree": {
-    "interval": 2,
-    "ease": 2.35,
-    "next_review": 1785785699919
-  },
   "house-robber": {
-    "interval": 2,
     "ease": 2.35,
+    "interval": 2,
     "next_review": 1785785699919
   },
-  "spiral-matrix": {
-    "interval": 2,
+  "invert-binary-tree": {
     "ease": 2.35,
+    "interval": 2,
     "next_review": 1785785699919
   },
   "palindromic-substrings": {
-    "interval": 2,
     "ease": 2.35,
+    "interval": 2,
     "next_review": 1785785699919
+  },
+  "spiral-matrix": {
+    "ease": 2.35,
+    "interval": 2,
+    "next_review": 1785785699919
+  },
+  "time-based-key-value-store": {
+    "interval": 2,
+    "ease": 2.15,
+    "next_review": 1785788714684,
+    "difficulty": "Medium",
+    "fail_streak": 0,
+    "success_streak": 1,
+    "is_leech": false,
+    "reviews": 1,
+    "last_grade": 2,
+    "last_reviewed": 1785615914684
+  },
+  "majority-element": {
+    "interval": 2,
+    "ease": 2.15,
+    "next_review": 1785788714684,
+    "difficulty": "Medium",
+    "fail_streak": 0,
+    "success_streak": 1,
+    "is_leech": false,
+    "reviews": 1,
+    "last_grade": 2,
+    "last_reviewed": 1785615914684
+  },
+  "3sum": {
+    "interval": 1,
+    "ease": 2.05,
+    "next_review": 1785702314684,
+    "difficulty": "Medium",
+    "fail_streak": 1,
+    "success_streak": 0,
+    "is_leech": false,
+    "reviews": 1,
+    "last_grade": 1,
+    "last_reviewed": 1785615914684
+  },
+  "fibonacci-number": {
+    "interval": 2,
+    "ease": 2.15,
+    "next_review": 1785788714684,
+    "difficulty": "Medium",
+    "fail_streak": 0,
+    "success_streak": 1,
+    "is_leech": false,
+    "reviews": 1,
+    "last_grade": 2,
+    "last_reviewed": 1785615914684
   }
 }
