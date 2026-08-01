@@ -1,0 +1,22 @@
+{
+  "invert-binary-tree": {
+    "interval": 2,
+    "ease": 2.35,
+    "next_review": 1785785699919
+  },
+  "house-robber": {
+    "interval": 2,
+    "ease": 2.35,
+    "next_review": 1785785699919
+  },
+  "spiral-matrix": {
+    "interval": 2,
+    "ease": 2.35,
+    "next_review": 1785785699919
+  },
+  "palindromic-substrings": {
+    "interval": 2,
+    "ease": 2.35,
+    "next_review": 1785785699919
+  }
+}
