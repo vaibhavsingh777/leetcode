@@ -1,15 +1,15 @@
 {
   "3sum": {
     "difficulty": "Medium",
-    "ease": 2.05,
-    "fail_streak": 1,
-    "interval": 1,
+    "ease": 1.9,
+    "fail_streak": 0,
+    "interval": 2,
     "is_leech": false,
-    "last_grade": 1,
-    "last_reviewed": 1785615914684,
-    "next_review": 1785702314684,
-    "reviews": 1,
-    "success_streak": 0
+    "last_grade": 2,
+    "last_reviewed": 1785811921331,
+    "next_review": 1785984721331,
+    "reviews": 2,
+    "success_streak": 1
   },
   "fibonacci-number": {
     "difficulty": "Medium",
@@ -79,6 +79,18 @@
     "last_reviewed": 1785617040283,
     "next_review": 1785789840283,
     "reviews": 1,
+    "success_streak": 1
+  },
+  "next-permutation": {
+    "difficulty": "Medium",
+    "ease": 1.9,
+    "fail_streak": 0,
+    "interval": 2,
+    "is_leech": false,
+    "last_grade": 2,
+    "last_reviewed": 1785811921331,
+    "next_review": 1785984721331,
+    "reviews": 2,
     "success_streak": 1
   },
   "palindromic-substrings": {
@@ -162,17 +174,5 @@
     "next_review": 1785702789967,
     "reviews": 1,
     "success_streak": 0
-  },
-  "next-permutation": {
-    "interval": 1,
-    "ease": 2.05,
-    "next_review": 1785714483555,
-    "difficulty": "Medium",
-    "fail_streak": 1,
-    "success_streak": 0,
-    "is_leech": false,
-    "reviews": 1,
-    "last_grade": 1,
-    "last_reviewed": 1785628083555
   }
 }
