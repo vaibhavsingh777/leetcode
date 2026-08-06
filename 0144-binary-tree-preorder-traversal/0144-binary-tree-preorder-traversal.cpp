@@ -18,16 +18,18 @@ public:
         stack<TreeNode*> st;
         st.push(root);
         while(!st.empty()){
-            root = st.top();
-            st.pop();
-            preorder.emplace_back(root->val);
-            if(root->right != nullptr){
-                st.push(root->right);
-            }
-            if(root->left != nullptr){
-                st.push(root->left);
-            }
-        }
+    TreeNode* curr = st.top(); // Grab the node
+    st.pop();                  // Remove it from the waiting list
+    
+    preorder.emplace_back(curr->val); // Use the node
+    
+    if(curr->right != nullptr){
+        st.push(curr->right);
+    }
+    if(curr->left != nullptr){
+        st.push(curr->left);
+    }
+}
         return preorder;
     }
 };
