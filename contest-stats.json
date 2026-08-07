@@ -24,15 +24,15 @@
     "success_streak": 1
   },
   "house-robber": {
-    "ease": 2.45,
-    "interval": 5,
-    "next_review": 1786367347940,
     "difficulty": "Medium",
+    "ease": 2.45,
     "fail_streak": 0,
-    "success_streak": null,
-    "reviews": 1,
+    "interval": 5,
     "last_grade": 3,
-    "last_reviewed": 1785935347940
+    "last_reviewed": 1785935347940,
+    "next_review": 1786367347940,
+    "reviews": 1,
+    "success_streak": null
   },
   "house-robber-ii": {
     "difficulty": "Medium",
@@ -47,9 +47,15 @@
     "success_streak": 1
   },
   "invert-binary-tree": {
-    "ease": 2.35,
-    "interval": 2,
-    "next_review": 1785785699919
+    "ease": 2.1,
+    "interval": 1,
+    "next_review": 1786153185646,
+    "difficulty": "Medium",
+    "fail_streak": null,
+    "success_streak": 0,
+    "reviews": 1,
+    "last_grade": 1,
+    "last_reviewed": 1786066785646
   },
   "longest-common-subsequence": {
     "difficulty": "Medium",
