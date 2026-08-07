@@ -13,15 +13,15 @@
   },
   "fibonacci-number": {
     "difficulty": "Medium",
-    "ease": 2.15,
+    "ease": 2,
     "fail_streak": 0,
-    "interval": 2,
+    "interval": 3,
     "is_leech": false,
     "last_grade": 2,
-    "last_reviewed": 1785615914684,
-    "next_review": 1785788714684,
-    "reviews": 1,
-    "success_streak": 1
+    "last_reviewed": 1786088405488,
+    "next_review": 1786347605488,
+    "reviews": 2,
+    "success_streak": 2
   },
   "house-robber": {
     "difficulty": "Medium",
@@ -47,15 +47,15 @@
     "success_streak": 1
   },
   "invert-binary-tree": {
-    "ease": 2.1,
-    "interval": 1,
-    "next_review": 1786153185646,
     "difficulty": "Medium",
+    "ease": 2.1,
     "fail_streak": null,
-    "success_streak": 0,
-    "reviews": 1,
+    "interval": 1,
     "last_grade": 1,
-    "last_reviewed": 1786066785646
+    "last_reviewed": 1786066785646,
+    "next_review": 1786153185646,
+    "reviews": 1,
+    "success_streak": 0
   },
   "longest-common-subsequence": {
     "difficulty": "Medium",
@@ -71,15 +71,15 @@
   },
   "majority-element": {
     "difficulty": "Medium",
-    "ease": 2.15,
+    "ease": 2,
     "fail_streak": 0,
-    "interval": 2,
+    "interval": 3,
     "is_leech": false,
     "last_grade": 2,
-    "last_reviewed": 1785615914684,
-    "next_review": 1785788714684,
-    "reviews": 1,
-    "success_streak": 1
+    "last_reviewed": 1786088405488,
+    "next_review": 1786347605488,
+    "reviews": 2,
+    "success_streak": 2
   },
   "merge-sorted-array": {
     "difficulty": "Medium",
@@ -106,9 +106,15 @@
     "success_streak": 1
   },
   "palindromic-substrings": {
-    "ease": 2.35,
-    "interval": 2,
-    "next_review": 1785785699919
+    "ease": 2.2,
+    "interval": 3,
+    "next_review": 1786347605488,
+    "difficulty": "Medium",
+    "fail_streak": 0,
+    "success_streak": null,
+    "reviews": 1,
+    "last_grade": 2,
+    "last_reviewed": 1786088405488
   },
   "reverse-linked-list": {
     "difficulty": "Medium",
@@ -147,9 +153,15 @@
     "success_streak": 0
   },
   "spiral-matrix": {
-    "ease": 2.35,
-    "interval": 2,
-    "next_review": 1785785699919
+    "ease": 2.1,
+    "interval": 1,
+    "next_review": 1786174805488,
+    "difficulty": "Medium",
+    "fail_streak": null,
+    "success_streak": 0,
+    "reviews": 1,
+    "last_grade": 1,
+    "last_reviewed": 1786088405488
   },
   "time-based-key-value-store": {
     "difficulty": "Medium",
