@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhavsingh777/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vaibhavsingh777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaibhavsingh777/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1329-sort-the-matrix-diagonally](https://github.com/vaibhavsingh777/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavsingh777/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/vaibhavsingh777/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhavsingh777/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/vaibhavsingh777/leetcode/tree/master/0455-assign-cookies) |
+| [1329-sort-the-matrix-diagonally](https://github.com/vaibhavsingh777/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vaibhavsingh777/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vaibhavsingh777/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vaibhavsingh777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1329-sort-the-matrix-diagonally](https://github.com/vaibhavsingh777/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/vaibhavsingh777/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
