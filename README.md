@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/vaibhavsingh777/leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0860-lemonade-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavsingh777/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vaibhavsingh777/leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhavsingh777/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavsingh777/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/vaibhavsingh777/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0860-lemonade-change) |
 ## Tree
 |  |
 | ------- |
