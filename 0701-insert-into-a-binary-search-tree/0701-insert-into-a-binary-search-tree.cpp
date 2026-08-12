@@ -1,21 +1,30 @@
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        // Base case: we found the empty spot, return the new node
+        
         if (root == nullptr) {
             return new TreeNode(val);
         }
-        
-        // If the value is less, we must go left
-        if (val < root->val) {
-            root->left = insertIntoBST(root->left, val);
-        } 
-        // If the value is greater, we must go right
-        else {
-            root->right = insertIntoBST(root->right, val);
+
+        TreeNode* curr = root;
+while(1){
+        if(val < curr->val){
+            if(curr->left == nullptr)
+            {
+                curr->left = new TreeNode(val);
+                break;
+            }
+            else curr = curr->left;
         }
-        
-        // Return the unchanged root pointer
+        else {
+            if(curr->right == nullptr)
+            {
+                curr->right = new TreeNode(val);
+                break;
+            }
+            else curr = curr->right;
+        }
+}
         return root;
     }
 };
