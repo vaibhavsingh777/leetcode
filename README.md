@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vaibhavsingh777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaibhavsingh777/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/vaibhavsingh777/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/vaibhavsingh777/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavsingh777/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/vaibhavsingh777/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhavsingh777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhavsingh777/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavsingh777/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/vaibhavsingh777/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhavsingh777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/vaibhavsingh777/leetcode/tree/master/0455-assign-cookies) |
 | [1329-sort-the-matrix-diagonally](https://github.com/vaibhavsingh777/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/vaibhavsingh777/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/vaibhavsingh777/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavsingh777/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh777/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/vaibhavsingh777/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
