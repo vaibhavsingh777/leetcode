@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/vaibhavsingh777/leetcode/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavsingh777/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1021-remove-outermost-parentheses](https://github.com/vaibhavsingh777/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh777/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibhavsingh777/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vaibhavsingh777/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavsingh777/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/vaibhavsingh777/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
 |  |
 | ------- |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavsingh777/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhavsingh777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/vaibhavsingh777/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
