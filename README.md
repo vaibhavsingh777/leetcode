@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavsingh777/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhavsingh777/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavsingh777/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhavsingh777/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Game Theory
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhavsingh777/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Sliding Window
