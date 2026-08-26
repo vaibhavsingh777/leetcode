@@ -8,9 +8,9 @@ public:
         int left = 0;
 
         for(int i = 0; i < n; ++i){
-            if(mp.find(s[i]) != mp.end() && mp[s[i]] >= left)
+            if(mp.find(s[i]) != mp.end())
             {
-                left = mp[s[i]] + 1;
+                left = max(left, mp[s[i]] + 1);
             }
             mp[s[i]] = i;
             right = max(right, i - left + 1);
