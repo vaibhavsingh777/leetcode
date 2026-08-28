@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/vaibhavsingh777/leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh777/leetcode/tree/master/0695-max-area-of-island) |
 | [0860-lemonade-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavsingh777/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vaibhavsingh777/leetcode/tree/master/0877-stone-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vaibhavsingh777/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vaibhavsingh777/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vaibhavsingh777/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh777/leetcode/tree/master/0695-max-area-of-island) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vaibhavsingh777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1329-sort-the-matrix-diagonally](https://github.com/vaibhavsingh777/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/vaibhavsingh777/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vaibhavsingh777/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh777/leetcode/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhavsingh777/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vaibhavsingh777/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh777/leetcode/tree/master/0695-max-area-of-island) |
 ## Counting
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vaibhavsingh777/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vaibhavsingh777/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh777/leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
