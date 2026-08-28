@@ -5,7 +5,7 @@ public:
 
       while(last < nums.size() - 1){
         jumps++;
-        for(int i = 0; i <= right; i++){
+        for(int i = left; i <= right; i++){
             last = max(last, i + nums[i]);
         }
         left = right + 1;
