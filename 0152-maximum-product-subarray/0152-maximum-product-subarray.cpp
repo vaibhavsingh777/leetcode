@@ -1,22 +1,20 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        if(nums.empty()) return 0;
-
-        int curMax = nums[0];
-        int curMin = nums[0];
-        int globMax = curMax;
+        int curmax = nums[0];
+        int curmin = nums[0];
+        int ans = nums[0];
 
         for(int i = 1; i < nums.size(); i++){
+            //3 choices, start new prod, 
+            //extend prev: both max and min
+            int temp = curmax;
+            int temp1 = curmin;
 
-            int tempMax = curMax;
-            // Choice 1: Start fresh from nums[i]
-            // Choice 2: Extend the previous max
-            // Choice 3: The "Negative Flip" (extending the previous min)
-            curMax = max({nums[i], tempMax * nums[i], curMin * nums[i]});
-            curMin = min({nums[i], tempMax * nums[i], curMin * nums[i]});
-            globMax = max(globMax, curMax);
+            curmax = max({nums[i], temp * nums[i],  temp1 * nums[i]});
+            curmin = min({nums[i], temp * nums[i],  temp1 * nums[i]});
+            ans = max(curmax, ans);
         }
-        return globMax;
+        return ans;
     }
 };
