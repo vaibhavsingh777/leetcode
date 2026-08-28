@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int jump(vector<int>& nums) {
+      int last = 0, left = 0, right = 0, jumps = 0;
+
+      while(last < nums.size() - 1){
+        jumps++;
+        for(int i = 0; i <= right; i++){
+            last = max(last, i + nums[i]);
+        }
+        left = right + 1;
+        right = last;
+      }
+      return jumps;
+
+    }
+};
