@@ -1,28 +1,27 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> ans;
-        if(root == nullptr) return {};
-        
-        // FIX: Use angle brackets for the type, and name the variable 'q'
-        queue<TreeNode*> q; 
-        
+        vector<vector<int>> res;
+        if (!root) return res; // 1. Guard against null root
+
+        queue<TreeNode*> q;
         q.push(root);
 
-        while(!q.empty()){
-            int size = q.size();
-            vector<int> level;
-            for(int i = 0; i < size; i++){
-                TreeNode *node = q.front();
+        while (!q.empty()) {
+            int levsize = q.size();
+            vector<int> curlevel; // 2. Declare outside inner loop
+
+            for (int i = 0; i < levsize; i++) {
+                TreeNode* curr = q.front();
                 q.pop();
-                
-                if(node->left != nullptr) q.push(node->left);
-                if(node->right != nullptr) q.push(node->right);
-                
-                level.emplace_back(node->val);
+
+                curlevel.push_back(curr->val); // 3. Push integer value
+
+                if (curr->left) q.push(curr->left);
+                if (curr->right) q.push(curr->right);
             }
-            ans.push_back(level);
+            res.push_back(curlevel); // 4. Add the completed level
         }
-        return ans;
+        return res;
     }
 };
