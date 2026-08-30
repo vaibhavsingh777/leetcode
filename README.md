@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vaibhavsingh777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/vaibhavsingh777/leetcode/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vaibhavsingh777/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vaibhavsingh777/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vaibhavsingh777/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vaibhavsingh777/leetcode/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vaibhavsingh777/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vaibhavsingh777/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/vaibhavsingh777/leetcode/tree/master/0337-house-robber-iii) |
 | [0695-max-area-of-island](https://github.com/vaibhavsingh777/leetcode/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vaibhavsingh777/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/vaibhavsingh777/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/vaibhavsingh777/leetcode/tree/master/0207-course-schedule) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vaibhavsingh777/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
