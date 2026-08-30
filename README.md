@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vaibhavsingh777/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavsingh777/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhavsingh777/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/vaibhavsingh777/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh777/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vaibhavsingh777/leetcode/tree/master/0162-find-peak-element) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavsingh777/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavsingh777/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhavsingh777/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/vaibhavsingh777/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vaibhavsingh777/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/vaibhavsingh777/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vaibhavsingh777/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavsingh777/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhavsingh777/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/vaibhavsingh777/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh777/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vaibhavsingh777/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh777/leetcode/tree/master/0213-house-robber-ii) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vaibhavsingh777/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/vaibhavsingh777/leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/vaibhavsingh777/leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh777/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/vaibhavsingh777/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/vaibhavsingh777/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/vaibhavsingh777/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/vaibhavsingh777/leetcode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/vaibhavsingh777/leetcode/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/vaibhavsingh777/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -368,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh777/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaibhavsingh777/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaibhavsingh777/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
