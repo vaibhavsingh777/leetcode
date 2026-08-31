@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/vaibhavsingh777/leetcode/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavsingh777/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/vaibhavsingh777/leetcode/tree/master/0695-max-area-of-island) |
+| [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vaibhavsingh777/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vaibhavsingh777/leetcode/tree/master/0877-stone-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/vaibhavsingh777/leetcode/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/vaibhavsingh777/leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/vaibhavsingh777/leetcode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/vaibhavsingh777/leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh777/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vaibhavsingh777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
