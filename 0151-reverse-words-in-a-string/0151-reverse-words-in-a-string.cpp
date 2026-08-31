@@ -1,48 +1,33 @@
 class Solution {
-private: 
-
-    void parser(const string& input, vector<string>& words) {
-        string currentWord = "";
-        int n = input.length();
-        
-        for (int i = 0; i < n; i++) {
-            if (input[i] == ' ') {
-
-                if (!currentWord.empty()) {
-                    words.push_back(currentWord);
-                    currentWord = ""; // Reset for the next word
-                }
-            } else {
-                // Keep building the current word character by character
-                currentWord += input[i];
-            }
-        }
-        
-        // Catch the very last word if the string didn't end with a space
-        if (!currentWord.empty()) {
-            words.push_back(currentWord);
-        }
-    }
-
 public:
     string reverseWords(string s) {
-        vector<string> words;
+        // Step 1: Reverse the whole string
+        reverse(s.begin(), s.end());
         
-        // 1. Pass the string and our vector to the helper function
-        parser(s, words);
+        int n = s.length();
+        int left = 0, right = 0, i = 0;
         
-        // 2. Reverse the array of words
-        reverse(words.begin(), words.end());
-        
-        // 3. Reconstruct the final string with single spaces
-        string answer = "";
-        for (int i = 0; i < words.size(); i++) {
-            answer += words[i];
-            if (i < words.size() - 1) {
-                answer += " "; // Add a space between words, but not at the end
+        while (i < n) {
+            // Skip leading/multiple spaces
+            while (i < n && s[i] == ' ') i++;
+            if (i == n) break; // We reached the end
+            
+            // Step 2 & 3: Copy the word over to the 'right' pointer to remove extra spaces
+            while (i < n && s[i] != ' ') {
+                s[right++] = s[i++];
             }
+            
+            // Reverse the individual word we just copied
+            reverse(s.begin() + left, s.begin() + right);
+            
+            // Add a single space after the word, and update 'left' for the next word
+            s[right++] = ' ';
+            left = right;
+            i++;
         }
         
-        return answer;
+        // Remove the trailing space we added after the last word
+        s.resize(right - 1);
+        return s;
     }
 };
