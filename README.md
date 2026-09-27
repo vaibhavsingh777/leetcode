@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vaibhavsingh777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaibhavsingh777/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/vaibhavsingh777/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1539-kth-missing-positive-number](https://github.com/vaibhavsingh777/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/vaibhavsingh777/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavsingh777/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/vaibhavsingh777/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/vaibhavsingh777/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhavsingh777/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaibhavsingh777/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/vaibhavsingh777/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Linked List
 |  |
 | ------- |
