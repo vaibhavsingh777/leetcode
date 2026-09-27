@@ -6,13 +6,11 @@ public:
 
         for(int x : s){
             if(!s.count(x-1)){
-                int curr = x, cnt = 1;
-                while(s.count(curr+1))
-                {
-                    curr++;
-                    cnt++;
+                int curr = x, count = 1;
+                while(s.count(curr+1)){
+                    count++, curr++;
                 }
-                ans = max(cnt, ans);
+                ans = max(count, ans);
             }
         }
         return ans;
