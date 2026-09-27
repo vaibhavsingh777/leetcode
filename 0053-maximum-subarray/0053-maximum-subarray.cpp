@@ -1,14 +1,15 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int curmax = nums[0];
-        int globmax = curmax;
-        for(int i = 1; i < nums.size(); ++i){
-            curmax = max(nums[i], nums[i] + curmax);
-            globmax = max(globmax, curmax);
+        //we can either stop and start new subarray greater than
+        //total sum till now or keep adding to prev sum
+        int n = nums.size();
+        int ms = nums[0], cs = nums[0];
+        for(int i = 1; i < n; i++){
+            cs = max(nums[i], cs + nums[i]);
+            ms = max(cs,ms);
         }
-        return globmax;
+        return ms;
 
-        
     }
 };
