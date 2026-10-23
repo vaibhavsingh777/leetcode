@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh777/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vaibhavsingh777/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/vaibhavsingh777/leetcode/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/vaibhavsingh777/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/vaibhavsingh777/leetcode/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhavsingh777/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vaibhavsingh777/leetcode/tree/master/0647-palindromic-substrings) |
@@ -431,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhavsingh777/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/vaibhavsingh777/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
